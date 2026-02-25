@@ -1,16 +1,14 @@
-## Hi there 👋
+# Sanchit Srivastava
 
-<!--
-**Sanchit-Srivastava/Sanchit-Srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ph.D. Candidate** | Institute for Quantum Computing, University of Waterloo
 
-Here are some ideas to get you started:
+## Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in studying the intersection of quantum information and quantum foundations.
+
+For a full list of publications, see my [Google Scholar](https://scholar.google.ca/citations?user=Yx76Lj4AAAAJ&hl=en).
+
+## Contact
+
+- **Email:** <sanchit.srivastava@uwaterloo.ca>
+- **Affiliation:** IQC & Dept. of Physics and Astronomy, University of Waterloo
