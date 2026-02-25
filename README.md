@@ -1,4 +1,4 @@
-# Sanchit Srivastava
+# Hi, I am Sanchit
 
 **Ph.D. Candidate** | Institute for Quantum Computing, University of Waterloo
 
