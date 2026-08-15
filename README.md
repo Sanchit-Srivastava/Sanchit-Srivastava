@@ -10,5 +10,5 @@ For a full list of publications, see my [Google Scholar](https://scholar.google.
 
 ## Contact
 
-- **Email:** <sanchit.srivastava@uwaterloo.ca>
+- **Email:** <contact@sanchitsrivastava.com>;<sanchit.srivastava@uwaterloo.ca>
 - **Affiliation:** IQC & Dept. of Physics and Astronomy, University of Waterloo
